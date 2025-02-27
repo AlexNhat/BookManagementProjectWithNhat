@@ -1,0 +1,6 @@
+
+ [{'Ma sach': '592925', 'Ten sach': 'halo', 'Gia ban': '100', 'Da ban': '100', 'Ton kho': '200', 'Tac gia': 'halogen', 'Year': '2017'}]
+ [{'Ma sach': '831021', 'Ten sach': 'haaaaa', 'Gia ban': '10', 'Da ban': '100', 'Ton kho': '100', 'Tac gia': 'a zai', 'Year': '2018'}, {'Ma sach': '673058', 'Ten sach': 'R', 'Gia ban': '2100', 'Da ban': '100', 'Ton kho': '50', 'Tac gia': 'thay phuong', 'Year': '2018'}]
+ [{'Ma sach': '981971', 'Ten sach': 'heheee', 'Gia ban': '200', 'Da ban': '500', 'Ton kho': '100', 'Tac gia': 'baba', 'Year': '2019'}]
+ [{'Ma sach': '193457', 'Ten sach': 'C', 'Gia ban': '100', 'Da ban': '200', 'Ton kho': '100', 'Tac gia': 'A Dang', 'Year': '2020'}]
+ [{'Ma sach': '762312', 'Ten sach': 'hadess', 'Gia ban': '100', 'Da ban': '10000', 'Ton kho': '300', 'Tac gia': 'hades', 'Year': '2021'}]
